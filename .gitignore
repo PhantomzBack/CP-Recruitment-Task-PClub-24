@@ -1,0 +1,4 @@
+*.txt
+*.out
+tests/
+backup_README.md
